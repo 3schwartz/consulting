@@ -10,5 +10,5 @@ Søren Schwartz is an independent software developer with robust technical and a
 
 For inquiries or collaborations, you can reach out to Søren Schwartz via:
 
-- LinkedIn: [Søren Schwartz on LinkedIn](www.linkedin.com/in/søren-schwartz-818688178)
+- LinkedIn: [Søren Schwartz on LinkedIn](https://linkedin.com/in/søren-schwartz-818688178)
 - VAT Number: DK44606070
