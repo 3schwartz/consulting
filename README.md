@@ -1,4 +1,4 @@
-# Søren Schwartz - Independent Software developer
+# Søren Schwartz - Independent Software Developer
 
 Welcome to the repository for Søren Schwartz, an independent software developer. This repository hosts a simple web page showcasing Søren Schwartz's professional profile and contact information.
 
