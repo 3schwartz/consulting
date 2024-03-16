@@ -8,7 +8,17 @@
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    margin: 0px 50px 0px;
+    margin: 0px 250px 0px;
+    @media (width <= 1200px) {
+      margin: 0px 150px 0px;
+    }    
+    @media (width <= 650px) {
+      margin: 0px 50px 0px;
+    }
+    @media (width <= 450px) {
+      margin: 0px 20px 0px;
+    }
+
   }
   h1 {
     color: #333;
@@ -28,7 +38,7 @@
     color: #007bff;
     text-decoration: none;
   }
-</style>
+</style>  
 </head>
 <body>
 <header>
@@ -37,7 +47,7 @@
 </header>
 
 <p>
-I’m an independent software engineer with robust technical and architectural skills, driven by a deep curiosity for performance- and observability optimization.
+I’m an independent software developer with robust technical and architectural skills, driven by a deep curiosity for performance- and observability optimization.
 </p>
 <p>
 I have extensive experience working on .NET services, encompassing both microservices and monolithic architectures. I have consistently contributed by designing features that result in scalable, fault-tolerant, and observable services.
